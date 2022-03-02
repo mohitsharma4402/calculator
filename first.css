@@ -1,0 +1,66 @@
+
+/*
+   */
+#all > img{
+    height: 720px;
+    width: 100%;
+}
+#maindiv{
+    height: 0px;
+    width: 300px;
+    margin-top: -3%;
+    margin-left: 60%;
+    position: absolute;
+}
+#serachbar{
+    height: 100px;
+    width: 300px;
+}
+
+#buttons{
+    width: 300px;
+    font-size: 40px;
+    position: absolute;
+}
+#calc{
+    height: 100px;
+    width: 300px;
+    margin-left: -6%;
+}
+.area{
+    margin-top: -213%;
+    background-color: black;
+}
+/*.title{
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align:center;
+    width: 210px;
+    border: solid black 1px;
+    margin-left: 43%;
+    padding-top: 10px;
+    
+    background-color: white;
+}
+.title > a{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}*/
+input[type="button"]{
+    margin: 10%;
+    border-radius: 100px;
+    background-color:#white;
+    color: black;
+    width:100%;
+}
+input[type="text"]{
+    text-align: right;
+    font-size: 40px;
+    background-color:white;
+    border-color: black ;
+    width:100%
+}
+#zero{
+    width: 20px;
+}
